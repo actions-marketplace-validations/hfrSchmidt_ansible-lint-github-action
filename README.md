@@ -15,7 +15,7 @@ Additional arguments to pass to ansible-lint
 ## Example usage
 ```yaml
 - name: Lint ansible project
-  uses: hfrSchmidt/ansible-lint-github-action@v1
+  uses: hfrSchmidt/ansible-lint-github-action@v0.1
   with:
     project_dir: 'ansible'
     config_file: '.ansible-lint.yml'
