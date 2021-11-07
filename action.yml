@@ -1,6 +1,7 @@
-name: ansible-lint
+name: ansible-lint including yamllint
+author: hfrSchmidt
 
-description: run ansible-lint on the repository
+description: run an up-to-date ansible-lint on the repository
 
 inputs:
   project_dir: 
