@@ -1,3 +1,11 @@
+# DEPRECATED
+
+This github action is deprecated and will not be maintained anymore. 
+Please use a different action such as the ansible-lint community action. 
+
+
+
+
 # ansible-lint-github-action
 github action for ansible-lint
 
